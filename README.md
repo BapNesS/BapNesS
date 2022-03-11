@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm Baptiste, Android lead tech at @Worldline 🇫🇷🇪🇺</p>
+<p>I'm Baptiste, Android lead tech at <a href="https://github.com/worldline">@Worldline</a> 🇫🇷🇪🇺</p>
 <p>I like working and discover thing about mobile development, Kotlin, KMM, KMP or Jetpack Compose. 🤓</p>
 <p>I've started a YouTube channel few month ago. You can <a href="https://youtube.com/channel/UC32LeqayCywA9DEHMxRWV1A?sub_confirmation=1">check it & follow me</a> 🎥</br>Feedbacks are welcomed.</p>
 
