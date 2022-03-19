@@ -23,4 +23,7 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/bapness">
     <img src="https://img.shields.io/twitter/follow/bapness?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
+  <a href="https://www.youtube.com/channel/UC32LeqayCywA9DEHMxRWV1A">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC32LeqayCywA9DEHMxRWV1A?label=YouTube&logo=youtube&style=for-the-badge&color=red" />
+  </a>
 </p>
