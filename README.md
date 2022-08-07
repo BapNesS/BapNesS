@@ -30,7 +30,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/follow/bapness?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
   <a href="https://www.linkedin.com/in/baptiste-carlier/">
-    <img src="https://img.shields.io/twitter/follow/bapness?label=LinkedIn&logo=linkedin&style=for-the-badge&color=0a75ad" />
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&link=https://www.linkedin.com/in/baptiste-carlier/&style=for-the-badge&color=0a75ad&message=OK" />
+  </a>
+  <a href="https://dribbble.com/BapNesS">
+    <img src="https://img.shields.io/static/v1?label=Dribbble&link=https://dribbble.com/BapNesS&style=for-the-badge&color=ea4c89&message=OK" />
   </a>
 </p>
 
