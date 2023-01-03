@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm Baptiste, an Android lead tech.</p>
+<p>I'm Baptiste, an Android lead tech at @Decathlon.</p>
 <p>I like discovering new thing about mobile development, Kotlin, KMM, KMP or Jetpack Compose. 🤓</p>
 <p>And I've started a YouTube channel few month ago to share content about Android, Kotlin, Firebase. (Feedbacks are welcomed)</p>
 
